@@ -1,0 +1,33 @@
+_repo: Caen-demoli-Recueil-de-notices-sur-des-monuments-detruits-ou-defigures-et-sur-l-ancien-port-d__68314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lavalley, Gaston
+    birthdate: 1834
+    deathdate: 1922
+    gutenberg_agent_id: '3804'
+    url: http://www.gutenberg.org/2009/agents/3804
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gaston_Lavalley
+    - https://fr.wikipedia.org/wiki/Gaston_Lavalley
+description: ''
+gutenberg_issued: '2022-06-14'
+identifiers:
+  gutenberg: '68314'
+language: fr
+pgterms:marc904: http://explore.bl.uk/primo_library/libweb/action/display.do?tabs=moreTab&ct=display&fn=search&doc=BLL01014861919&indx=1&recIds=BLL01014861919&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&frbrSourceidDisplay=BLL01&frbrIssnDisplay=&dscnt=0&frbrRecordsSource=Primo+Local&vid=BLVU1&mode=Basic&lastPag=&rfnGrp=1&rfnGrp=frbr&frbrJtitleDisplay=&tab=local_tab&dstmp=1652798527956&frbg=528512444&rfnGrpCounter=1&lastPagIndx=1&frbrSrt=rank&frbrEissnDisplay=&scp.scps=scope%3A%28BLCONTENT%29&tb=t&cs=frb&fctV=online&fctV=528512444&srt=rank&fctN=facet_local20&fctN=facet_frbrgroupid&dum=true&vl(freeText0)=002090689
+pgterms:marc905: 20220522142519lavalley
+pgterms:marc906: '1878'
+pgterms:marc907: FR
+production_note: J.-M. Mariot from files generously made available by the British
+  Library.
+publication_note: France :Le Blanc-Hardel,1878.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Caen démoli: Recueil de notices sur des monuments détruits ou défigurés, et
+  sur l''ancien port de Caen, avec 5 gravures, d''après des aquarelles de A. Lasne,
+  et des dessins inédits de Le Nourichel et Ch. Pichon'
+url: http://www.gutenberg.org/ebooks/68314
