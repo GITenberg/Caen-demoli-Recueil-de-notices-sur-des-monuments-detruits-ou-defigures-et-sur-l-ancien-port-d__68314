@@ -1,5 +1,8 @@
 _repo: Caen-demoli-Recueil-de-notices-sur-des-monuments-detruits-ou-defigures-et-sur-l-ancien-port-d__68314
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lavalley, Gaston
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gaston_Lavalley
     - https://fr.wikipedia.org/wiki/Gaston_Lavalley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68314#Caen-demoli-Recueil-de-notices-sur-des-monuments-detruits-ou-defigures-et-sur-l-ancien-port-d_
 gutenberg_issued: '2022-06-14'
 identifiers:
   gutenberg: '68314'
